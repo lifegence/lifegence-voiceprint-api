@@ -198,4 +198,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Security
 
-Report vulnerabilities to security@lifegence.com. See [SECURITY.md](SECURITY.md).
+Report vulnerabilities to masakazu.nomura@lifegence.com. See [SECURITY.md](SECURITY.md).
