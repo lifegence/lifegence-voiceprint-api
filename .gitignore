@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Flutter
+flutter_sdk/.dart_tool/
+flutter_sdk/.flutter-plugins
+flutter_sdk/.flutter-plugins-dependencies
+flutter_sdk/.packages
+flutter_sdk/build/
+flutter_sdk/.pub-cache/
+flutter_sdk/.pub/
+flutter_sdk/coverage/
+flutter_sdk/*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Docker
+.docker/
+
+# Models (large files)
+pretrained_models/
+*.pt
+*.pth
+*.onnx
+
+# Database
+*.db
+*.sqlite
+
+# Secrets
+*.pem
+*.key
+secrets/

@@ -1,0 +1,21 @@
+# Development Dependencies
+-r requirements.txt
+
+# Testing
+pytest==8.0.0
+pytest-asyncio==0.23.4
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+httpx==0.27.0
+factory-boy==3.3.0
+faker==22.5.1
+
+# Linting & Formatting
+ruff==0.2.1
+black==24.1.1
+mypy==1.8.0
+types-redis==4.6.0
+
+# Development Tools
+ipython==8.21.0
+pre-commit==3.6.0
