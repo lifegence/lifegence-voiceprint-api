@@ -16,7 +16,7 @@ We take the security of Lifegence VoiceID SDK seriously. If you believe you have
 
 Instead, please send an email to:
 
-**security@lifegence.com**
+**masakazu.nomura@lifegence.com**
 
 Include the following information:
 

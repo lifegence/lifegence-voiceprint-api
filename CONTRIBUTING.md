@@ -98,7 +98,7 @@ When reporting issues, please include:
 
 ## Security
 
-Report security vulnerabilities privately to **security@lifegence.com**.
+Report security vulnerabilities privately to **masakazu.nomura@lifegence.com**.
 
 Do NOT open public issues for security vulnerabilities.
 
