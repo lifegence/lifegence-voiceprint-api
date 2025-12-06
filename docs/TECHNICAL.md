@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document explains the technical foundations of the voice recognition system used in Lifegence VoiceID SDK, including the neural network architecture, embedding extraction process, and similarity computation.
+This document explains the technical foundations of the voice recognition system used in Lifegence Voiceprint API, including the neural network architecture, embedding extraction process, and similarity computation.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ Human voice contains multiple discriminative features:
 | **Behavioral** | Speaking rate, pitch patterns, accent | Moderately stable |
 | **Linguistic** | Word choice, phrase patterns | Variable |
 
-This SDK focuses on physiological and behavioral features encoded by the neural network.
+This API focuses on physiological and behavioral features encoded by the neural network.
 
 ---
 

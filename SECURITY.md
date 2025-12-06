@@ -8,7 +8,7 @@
 
 ## Reporting a Vulnerability
 
-We take the security of Lifegence VoiceID SDK seriously. If you believe you have found a security vulnerability, please report it to us as described below.
+We take the security of Lifegence Voiceprint API seriously. If you believe you have found a security vulnerability, please report it to us as described below.
 
 ### How to Report
 
@@ -129,7 +129,7 @@ Subscribe to security notifications:
 
 ## Compliance Considerations
 
-This SDK is designed with the following regulations in mind:
+This API is designed with the following regulations in mind:
 
 ### GDPR (EU)
 - Article 9: Processing of special categories (biometric data)
@@ -146,7 +146,7 @@ This SDK is designed with the following regulations in mind:
 - Right to delete
 - Right to opt-out
 
-**Note**: Compliance responsibility ultimately lies with the implementer. This SDK provides tools to support compliance but does not guarantee it.
+**Note**: Compliance responsibility ultimately lies with the implementer. This API provides tools to support compliance but does not guarantee it.
 
 ## Acknowledgments
 
@@ -156,4 +156,4 @@ We appreciate the security research community's efforts in helping keep this pro
 
 ---
 
-Thank you for helping keep Lifegence VoiceID SDK and its users safe!
+Thank you for helping keep Lifegence Voiceprint API and its users safe!
